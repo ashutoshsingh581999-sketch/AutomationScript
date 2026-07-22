@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-07-19T15:27:13 IST" name="Suite" finished-at="2026-07-19T15:28:18 IST" duration-ms="65227">
+    <groups>
+    </groups>
+    <test started-at="2026-07-19T15:27:13 IST" name="Test" finished-at="2026-07-19T15:28:18 IST" duration-ms="65227">
+      <class name="com.advance.selenium.questions.Shadow">
+        <test-method signature="handleShadowRoot()[pri:0, instance:com.advance.selenium.questions.Shadow@4218d6a3]" started-at="2026-07-19T15:27:13 IST" name="handleShadowRoot" finished-at="2026-07-19T15:27:45 IST" duration-ms="32303" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- handleShadowRoot -->
+        <test-method signature="handleShadowRootByJS()[pri:0, instance:com.advance.selenium.questions.Shadow@4218d6a3]" started-at="2026-07-19T15:27:45 IST" name="handleShadowRootByJS" finished-at="2026-07-19T15:28:18 IST" duration-ms="32864" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- handleShadowRootByJS -->
+      </class> <!-- com.advance.selenium.questions.Shadow -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
